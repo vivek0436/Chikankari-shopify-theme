@@ -1,0 +1,5 @@
+<!-- File: robots.txt -->
+User-agent: *
+Allow: /
+
+Sitemap: https://merhwa2.github.io/Shwetartistry/sitemap.xml
